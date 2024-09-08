@@ -4,10 +4,10 @@ This website offers a user-friendly platform for ordering food, designed to attr
 
 Website Structure:
 The website consists of five main pages:
+  1) Home: Displays the latest deals, a featured gallery, and a section to subscribe to the newsletter.
+  2) About Us: Highlights the restaurant's specialties and introduces the chefs.
+  3) Menu: Redirects to the Online Order page, showcasing various items available for ordering.
+  4) Contact: Includes a feedback form, message submission, and reservation options.
+  5) Online Order: Provides a full cart functionality with JavaScript event listeners, query selectors, and local storage.
 
-Home: Displays the latest deals, a featured gallery, and a section to subscribe to the newsletter.
-About Us: Highlights the restaurant's specialties and introduces the chefs.
-Menu: Redirects to the Online Order page, showcasing various items available for ordering.
-Contact: Includes a feedback form, message submission, and reservation options.
-Online Order: Provides a full cart functionality with JavaScript event listeners, query selectors, and local storage.
 On the Online Order page, customers can select items by adding them to their cart. Upon checkout, users are directed to the Checkout page, where they can provide personal details for food delivery. Once the information is confirmed, the order is finalized.
